@@ -43,12 +43,6 @@ I am a <strong>Computer Engineering student at the University of Waterloo</stron
 
 ---
 
-## 📊 GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=VivaanChugh&show_icons=true&theme=radical"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VivaanChugh&layout=compact&theme=radical"/>
-</p>
-
 ---
 
 ## 📫 Connect with Me
