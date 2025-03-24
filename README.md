@@ -7,7 +7,7 @@ I am a <strong>Computer Engineering student at the University of Waterloo</stron
 ---
 
 ## 🚀 About Me
-- 🔭 Currently working on **[Finance Tracker](https://github.com/your-repo)**
+- 🔭 Currently working on **[Finance Tracker]**
 - 🌱 Learning **Django, PostgreSQL, Next.js**
 - 💡 Exploring **Machine Learning and API Development**
 - 🚀 Always improving my **coding skills** and working on exciting projects!
@@ -45,8 +45,8 @@ I am a <strong>Computer Engineering student at the University of Waterloo</stron
 
 ## 📊 GitHub Stats
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=yourgithub&show_icons=true&theme=radical"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithub&layout=compact&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api?VivaanChugh=yourgithub&show_icons=true&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?VivaanChugh=yourgithub&layout=compact&theme=radical"/>
 </p>
 
 ---
