@@ -8,7 +8,7 @@ I am a <strong>Computer Engineering student at the University of Waterloo</stron
 
 ## 🚀 About Me
 - 🔭 Currently working on **[Finance Tracker](https://github.com/your-repo)**
-- 🌱 Learning **Django, PostgreSQL, Next.js**
+- 🌱 Learning and gaining proficiency in **.NET, Angluar, Django, PostgreSQL, Next.js**
 - 💡 Exploring **Machine Learning and API Development**
 - 🚀 Always improving my **coding skills** and working on exciting projects!
 
@@ -25,7 +25,6 @@ I am a <strong>Computer Engineering student at the University of Waterloo</stron
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
 </p>
 
 ### **Frameworks & Libraries:**
@@ -44,9 +43,7 @@ I am a <strong>Computer Engineering student at the University of Waterloo</stron
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
 </p>
 
@@ -54,7 +51,7 @@ I am a <strong>Computer Engineering student at the University of Waterloo</stron
 
 ## 📫 Connect with Me
 <p>
-<a href="https://www.linkedin.com/in/yourprofile" target="_blank">
+<a href="https://www.linkedin.com/in/VivaanChugh" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://vivaanchugh.me" target="_blank">
