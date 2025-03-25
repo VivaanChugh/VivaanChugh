@@ -7,7 +7,7 @@ I am a <strong>Computer Engineering student at the University of Waterloo</stron
 ---
 
 ## 🚀 About Me
-- 🔭 Currently working on **[Finance Tracker](https://github.com/VivaanChugh/Findr)**
+- 🔭 Currently working on **[Findr](https://github.com/VivaanChugh/Findr)**
 - 🌱 Learning and gaining proficiency in **.NET, Angluar, Django, PostgreSQL, Next.js**
 - 💡 Exploring **Machine Learning and API Development**
 - 🚀 Always improving my **coding skills** and working on exciting projects!
