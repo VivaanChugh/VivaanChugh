@@ -67,7 +67,7 @@ I am a <strong>Computer Engineering student at the University of Waterloo</stron
 
 ## 📫 Connect with Me
 <p>
-<a href="https://www.linkedin.com/in/VivaanChugh" target="_blank">
+<a href="https://www.linkedin.com/in/vivaan-chugh/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://vivaanchugh.me" target="_blank">
