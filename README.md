@@ -68,11 +68,11 @@ I am a <strong>Computer Engineering student at the University of Waterloo</stron
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vivaanspace&show_icons=true&theme=github_dark&hide_border=false" alt="Vivaan's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=VivaanChugh&show_icons=true&theme=github_dark&hide_border=false" alt="Vivaan's GitHub Stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=vivaanspace&theme=github-dark&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=VivaanChugh&theme=github-dark&hide_border=false" alt="GitHub Streak" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivaanspace&layout=compact&theme=github_dark&hide_border=false" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VivaanChugh&layout=compact&theme=github_dark&hide_border=false" alt="Top Languages" />
 </p>
 
 ---
